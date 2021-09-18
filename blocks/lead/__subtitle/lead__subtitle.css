@@ -12,19 +12,21 @@
 }
 
 @media (min-width: 1023px) and (max-width: 1279px){
-    .lead__title{
+    .lead__subtitle{
         margin: 0 192px 0;
     }
 }
 
 @media (min-width: 768px) and (max-width: 1023px){
-    .lead__title{
+    .lead__subtitle{
         margin: 0 64px 0;
     }
 }
 
-@media (min-width: 320px) and (max-width: 768px){
-    .lead__title{
+@media (min-width: 320px) and (max-width: 767px){
+    .lead__subtitle{
         margin: 0 16px 0;
+        font-size: 16px;
+        line-height: 20px;
     }
 }
