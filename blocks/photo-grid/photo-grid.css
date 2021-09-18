@@ -1,0 +1,10 @@
+@import url(__item/photo-grid__item.css);
+.photo-grid{
+    margin: 0 48px 92px;
+    display: grid;
+
+    grid-template-rows: repeat(3,minmax(284px, 288px));
+    grid-template-columns: repeat(4,minmax(213px, 216px));
+
+    background-color: chartreuse;
+}
