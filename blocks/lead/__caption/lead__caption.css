@@ -1,5 +1,5 @@
 .lead__caption{
-    margin: 8px 0 0 148px;
+    margin: 8px 0 0;
 
     font-style: normal;
     font-weight: normal;
@@ -8,4 +8,22 @@
     letter-spacing: 1.5px;
     text-transform: uppercase;
     color: white;
+}
+
+@media (min-width: 1023px) and (max-width: 1279px){
+    .lead__caption{
+        margin: 8px 0 0;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1023px){
+    .lead__caption{
+        margin: 8px 0 0 24px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 767px){
+    .lead__caption{
+        margin: 8px 0 0 16px;
+    }
 }

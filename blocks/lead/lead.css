@@ -2,7 +2,14 @@
 @import url(__subtitle/lead__subtitle.css);
 @import url(__image/lead__image.css);
 @import url(__caption/lead__caption.css);
+@import url(__image-and-caption/lead__image-and-caption.css);
 
 .lead{
-    margin: 28px 0 144px;
+    margin: 56px 0 0;
+}
+
+@media (min-width: 1024px) and (max-width: 1279px){
+    .lead{
+        margin: 48px 0 0;
+    }
 }
