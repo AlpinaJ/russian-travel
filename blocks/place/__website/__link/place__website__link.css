@@ -1,0 +1,14 @@
+.place__website__link{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    margin: 0;
+
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+
+    position: absolute;
+    bottom: 0;
+}
