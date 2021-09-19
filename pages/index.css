@@ -27,6 +27,11 @@
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/place/__website/__heading/place__website__heading.css);
+@import url(../blocks/place/__website/__link/place__website__link.css);
 
 @import url('https://rsms.me/inter/inter.css');
 
