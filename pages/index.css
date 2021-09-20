@@ -32,7 +32,9 @@
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/place/__website/website-heading/place__website-heading.css);
 @import url(../blocks/place/__website/website-link/place__website-link.css);
-
+@import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang-links/header__lang-links.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
 @import url('https://rsms.me/inter/inter.css');
 
 html {
