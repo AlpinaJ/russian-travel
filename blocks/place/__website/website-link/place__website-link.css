@@ -12,3 +12,7 @@
     position: absolute;
     bottom: 0;
 }
+
+.place__website-link:hover{
+    opacity: 0.8;
+}
