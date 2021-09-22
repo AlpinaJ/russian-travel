@@ -2,8 +2,20 @@
     color: white;
     text-decoration: none;
     margin: 0 18px 0 0;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
 }
 
 .footer__link:last-of-type{
     margin: 0;
+}
+
+@media (min-width: 320px) and (max-width: 767px){
+    .footer__link {
+        font-size: 24px;
+        line-height: 24px;
+    }
 }

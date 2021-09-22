@@ -2,3 +2,13 @@
     color: white;
     text-decoration: none;
 }
+
+@media (min-width: 320px) and (max-width: 767px){
+    .footer__links {
+        display:flex;
+        gap: 32px;
+        flex-direction: column;
+
+        margin-bottom: 48px;
+    }
+}
