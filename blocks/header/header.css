@@ -3,6 +3,10 @@
 .header{
     margin: 28px 48px 0;
     position: relative;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 @media (min-width: 320px) and (max-width: 767px){

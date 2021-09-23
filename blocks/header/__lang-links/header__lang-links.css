@@ -1,8 +1,8 @@
 .header__lang-links{
-    /*display: flex;*/
-    /*flex-direction: row;*/
-    /*justify-content: end;*/
-    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    /*position: absolute;*/
     bottom: 0;
     right: 0;
 }
