@@ -15,7 +15,6 @@
 @media (min-width: 1024px) and (max-width: 1279px){
     .cover__subtitle {
         margin: 0 332px 0;
-        top: 379px;
 
     }
 }
@@ -24,7 +23,6 @@
 @media (min-width: 768px) and (max-width: 1023px){
     .cover__subtitle {
         margin: 0 204px 0;
-        top: 299px;
     }
 }
 
@@ -33,6 +31,5 @@
         margin: 0 16px 0;
         font-size: 14px;
         line-height: 16px;
-        top: 119px;
     }
 }
