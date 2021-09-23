@@ -3,13 +3,10 @@
     font-weight: normal;
     font-size: 12px;
     line-height: 12px;
-    margin: 0;
-    /* identical to box height, or 100% */
+    margin: 0 0 12px;
 
     letter-spacing: 2px;
 
     color: #AAAAAA;
 
-    position: absolute;
-    bottom: calc(22px + 12px);
 }
