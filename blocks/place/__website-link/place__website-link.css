@@ -1,4 +1,4 @@
-.place__website-link{
+.place__website-link {
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
@@ -8,11 +8,8 @@
     text-decoration-line: underline;
 
     color: #FFFFFF;
-
-    /*position: absolute;*/
-    /*bottom: 0;*/
 }
 
-.place__website-link:hover{
+.place__website-link:hover {
     opacity: 0.8;
 }
