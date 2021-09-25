@@ -1,6 +1,5 @@
 .lead__image-and-caption {
     width: 984px;
-
     margin: 64px 148px 0;
     display: block;
     padding: 0;
@@ -11,7 +10,6 @@
         width: calc(100% - 48px * 2);
         margin: 56px 48px 0;
         display: block;
-
     }
 }
 

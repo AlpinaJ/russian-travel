@@ -3,20 +3,14 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-
     min-height: 740px;
     width: 100%;
-
-
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
     text-decoration: none;
     z-index: 2;
-
-
 }
 
 .cover__overlay::after {
