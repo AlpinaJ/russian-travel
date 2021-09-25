@@ -10,3 +10,10 @@
 .header__lang-link_active:hover{
     opacity: 0.8;
 }
+
+@media (max-width: 767px) {
+    .header__lang-link_active {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
